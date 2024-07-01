@@ -1,0 +1,22 @@
+body
+{
+    font-size: 14px;
+}
+.abc
+{
+    background: #255F9F;
+}
+.navbar-expand-lg .navbar-nav .nav-link
+{
+    color: #fff;
+    font-size: 17px;
+}
+.bb
+{
+    background: #444444;
+    color: #fff;
+    font-size: 13px;
+}
+.cc{
+    background: rgb(212, 212, 212);
+}
